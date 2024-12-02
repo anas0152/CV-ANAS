@@ -1,0 +1,8 @@
+@import url(reset.css);
+
+#identite {
+}
+
+.red-border {
+    border: solid 1px red;
+}
